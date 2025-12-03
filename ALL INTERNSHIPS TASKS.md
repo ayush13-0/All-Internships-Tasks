@@ -1,6 +1,5 @@
-## ~ ALL INTERNSHIPS TASKS ~
-**-------------------------------------------------------------**
-
+~ ALL INTERNSHIPS TASKS 2025-2026 ~
+-----------------------------------
 
 
 CODEALPHA DATA ANALYTICS INTERNSHIP TASKS (11 NOV - 11 DEC) 2025
@@ -51,5 +50,6 @@ CODSOFT ML INTERNSHIP TASK (1 DEC - 31 DEC) 2025
 - Implement a character-level recurrent neural network (RNN) to generate handwritten-like text. Train the model on a dataset of handwritten text examples, and let it generate new text based on the learned patterns
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
