@@ -27,7 +27,7 @@ CODEC AI INTERNSHIP TASKS (1 DEC 2025 - 1 JAN 2026)
 - Build a simple recommendation system that suggests movies based on user ratings or genres.
 - Implement collaborative filtering or content-based filtering techniques.
 
-2) Chatbot for Customer Service
+2) Chatbot for Customer Service (COMPLETED)✅
 - Develop a rule-based or simple NLP-based chatbot for answering basic customer queries.
 - Great for understanding basic NLP techniques and chatbot design.
 
@@ -38,11 +38,11 @@ CODEC AI INTERNSHIP TASKS (1 DEC 2025 - 1 JAN 2026)
 CODSOFT ML INTERNSHIP TASK (1 DEC - 31 DEC) 2025
 ------------------------------------------------
 
-1) SPAM SMS DETECTION
+1) SPAM SMS DETECTION (COMPLETED)✅
 - Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages
 
 
-2) CUSTOMER CHURN PREDICTION
+2) CUSTOMER CHURN PREDICTION (COMPLETED)✅
 - Develop a model to predict customer churn for a subscription based service or business. Use historical customer data, including features like usage behavior and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn
 
 
@@ -50,6 +50,7 @@ CODSOFT ML INTERNSHIP TASK (1 DEC - 31 DEC) 2025
 - Implement a character-level recurrent neural network (RNN) to generate handwritten-like text. Train the model on a dataset of handwritten text examples, and let it generate new text based on the learned patterns
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
